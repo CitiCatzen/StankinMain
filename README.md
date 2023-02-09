@@ -11,5 +11,5 @@
 * CSS
 * ReactJS
 ## Ссылки
-[landing page](https://harmonious-pika-3fddf2.netlify.app/)
+[landing page](https://harmonious-pika-3fddf2.netlify.app/)  
 [source](https://github.com/CitiCatzen/StankiMainSource)
